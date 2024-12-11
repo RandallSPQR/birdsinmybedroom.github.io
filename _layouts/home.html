@@ -1,19 +1,16 @@
 ---
 layout: base
 ---
-<div class="flex justify-center py-8 ">
+<div class="flex justify-center py-8">
   <article class="text-center prose prose-p:font-extralight prose-slate dark:prose-invert primary-underline">
     {{ content }}
   </article>
-</div>
-
-<div class="flex justify-center py-8 ">
-  <h4 class="text-3xl fonat-semibold">{{ site.data[site.lang].footer.title | default: "Find me everywhere!" |
-    localize}}</h4>
-  <span class="text-lg dark:text-slate-300 my-4">
-    {{ site.data[site.lang].footer.description | default: "Find us on any of these platforms." }}
-  </span>
-  {% include social.html %}
+  <div class="flex flex-col gap-4">
+    <div>{% include social.html %}</div>
+    <div>
+      <iframe src="https://hotcoldmedium.substack.com/embed" width="480" height="150" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
+    </div>
+  </div>
 </div>
 
 
