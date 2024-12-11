@@ -1,32 +1,28 @@
 ---
 layout: base
 ---
-<div class="flex justify-center gap-8 py-8">
-  <article class="text-center prose prose-p:font-extralight prose-slate dark:prose-invert primary-underline max-w-xl">
-    {{ content }}
-  </article>
+<div class="max-w-4xl mx-auto px-4">
+  <div class="flex flex-col items-center gap-8 py-8">
+    <article class="text-center prose prose-p:font-extralight prose-slate dark:prose-invert primary-underline max-w-xl">
+      {{ content }}
+    </article>
+    
+    <div class="flex flex-col items-center gap-4">
+      <div>{% include social.html %}</div>
+      <div id="custom-substack-embed"></div>
+    </div>
+  </div>
 </div>
-
-
-<div id="custom-substack-embed"></div>
-
 
 <script>
   window.CustomSubstackWidget = {
     substackUrl: "hotcoldmedium.substack.com",
     placeholder: "youremail@gmail.com",
     buttonText: "Subscribe",
-    theme: "green",
-
-    // Go to substackapi.com to unlock custom redirect
-
+    theme: "green"
   };
 </script>
 <script src="https://substackapi.com/widget.js" async></script>
-
-<div class="flex justify-center gap-8 py-8"></div>
-  <div>{% include social.html %}</div>
-</div>
 
 <div class="md:w-4/5 mx-auto gap-4 md:gap-6 columns-2 md:columns-3 mb-10">
   {% for post in site.posts %}
