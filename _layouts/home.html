@@ -7,12 +7,25 @@ layout: base
   </article>
 </div>
 
-<div class="flex flex-col gap-4 ml-8">
-  <div>{% include social.html %}</div>
-</div>
 
-<div class="flex justify-center gap-8 py-8">
-  <iframe src="https://hotcoldmedium.substack.com/embed" width="480" height="150" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
+<div id="custom-substack-embed"></div>
+
+
+<script>
+  window.CustomSubstackWidget = {
+    substackUrl: "hotcoldmedium.substack.com",
+    placeholder: "youremail@gmail.com",
+    buttonText: "Subscribe",
+    theme: "green",
+
+    // Go to substackapi.com to unlock custom redirect
+
+  };
+</script>
+<script src="https://substackapi.com/widget.js" async></script>
+
+<div class="flex justify-center gap-8 py-8"></div>
+  <div>{% include social.html %}</div>
 </div>
 
 <div class="md:w-4/5 mx-auto gap-4 md:gap-6 columns-2 md:columns-3 mb-10">
