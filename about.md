@@ -2,31 +2,15 @@
 title: about
 layout: page
 ---
-## Modo nostra
+## About Jess - 
 
-Lorem markdownum mihi; hic sonantem tenebat telum successu mollierant inani
-avoque. Harena et laedor bisque moenia veniat facit lebetes tum non?
+Jessica (Jess) Coghan finds her slice of serenity in northern New Jersey, where her backyard has become a bustling sanctuary for local birds and native plants. After spending over a decade in the fast-paced worlds of fashion and advertising, Jess now balances her creative endeavors with raising three energetic boys who have inherited her curiosity about the natural world.
 
-> Iunctissima lapsus illis; venit protervis exequialia absit tristia et
-> **locum** cum ut ad convertor tamen. Ad mea cui! Pedibus sit inque quaerit [ac
-> eadem](http://clamavit.io/), quid, aurum quam videt ille. Aiax harenam, et
-> salices equos, captis, Iovis.
 
-## Cumque ardor
+> Study nature, love nature, stay close to nature. It will never fail you.
+> **Frank Lloyd Wright**
 
-Suspiria seque sui quot, stare non profuso adsensere ignibus. Nata nomen rude
-veniam. Colore alta avido, relicta obnoxia vivosque Ereboque animosque meae,
-festas, Cythereia tu stare scitusque. Indefessus urbes eodem tuo liceat dives
-Telamonius nobis aetheriae, illam, in heu idemque **an**.
+Her journey into bird watching began as a simple morning ritual with her coffee by the window, but it has evolved into a passionate pursuit of understanding the delicate connections between local wildlife, seasonal changes, and the ecosystem she's cultivating in her garden. Through "Birds in My Bedroom," Jess shares her observations and photographs, weaving together her professional eye for aesthetics with her deep appreciation for nature's intricate design. When she's not documenting her feathered visitors, you'll find her teaching her sons about gardening or sketching the wildlife that makes their home feel like a small piece of wilderness.
 
-    key(gigabyteHoverClick - kilohertz, latencyPad);
-    process_password(heap_barcraft_file(matrix - dos_icio_blacklist,
-            exploitScsiVdu), activex * raid, cdmaVfatNvram + direct);
-    if (2 != surgeMemeConstant + 4) {
-        enterprise_so_gps += -1;
-        task(19 + primary_dvd_ruby, oasis_drive);
-    } else {
-        networking_path_box = protocolAndStack(5, 1, drop_rom) + dns_tft(29, -3,
-                emulation);
-    }
-
+> In nature, nothing is perfect and everything is perfect. Trees can be contorted, bent in weird ways, and they're still beautiful.
+> **Alice Walker**

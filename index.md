@@ -1,7 +1,7 @@
 ---
 layout: home
 ---
-# Welcome
+# Birds in my Bedroom
 
-Hello World. Hello Friend.
+Hello Friends.
 
