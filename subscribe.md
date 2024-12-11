@@ -1,5 +1,5 @@
 ---
-title: sample
+title: subscribe
 layout: page
 ---
 
